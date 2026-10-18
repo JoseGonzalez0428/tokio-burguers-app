@@ -5,7 +5,6 @@ App móvil (Flutter) para consultar el menú y armar un pedido en **Tokio Burgue
 **Alcance de este primer avance:** estructura del proyecto + menú estático (sin base de datos) + carrito en memoria. Lo demás (persistencia, sesión, checkout con GPS, panel admin) está planeado para las siguientes etapas.
 
 - **Tecnología:** Flutter (híbrido) · Material Design 3 · Provider
-- **Arquitectura:** feature-first (ver [`docs/ARQUITECTURA.md`](docs/ARQUITECTURA.md))
 - **Hardware planeado:** GPS (validar zona de entrega y autocompletar dirección) — se integra en el checkout, etapa siguiente
 
 ## Uso de inteligencia artificial
